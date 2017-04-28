@@ -36,3 +36,31 @@ El contenido de este documento queda estructurado como sigue:
 
   En el Anexo I se describen detalladamente cada uno de los ficheros o tratamientos, junto con los aspectos
   que les afecten de manera particular.
+
+  2.  Medidas, normas, procedimientos, reglas y estándares encaminados a garantizar los niveles de seguridad
+  exigidos en este documento
+
+  2.1 Identificación y autenticación
+
+  Medidas y normas relativas a la identificación y autenticación de los usuarios con acceso a los datos
+  personales.
+
+  2.1.1 Automatizadas
+
+  El proceso de autenticación se lleva a cabo delegado a través de Google+.
+
+  De esta forma es  dicha plataforma la encargada de gestionar de manera segura los datos y las claves
+  ,y cumplir la legislación sobre almacenamiento de datos.
+
+  El intento reiterado de acceso no autorizado al sistema, quedará limitado <DESCRIBIR>
+
+  2.2 Control de acceso
+
+  El personal solo accederá a aquellos datos y recursos que precise para el desarrollo de sus funciones.
+  El responsable del fichero establecerá los siguientes mecanismos para evitar que un usuario pueda acceder a recursos
+  con derechos distintos de los autorizados.
+
+    * Cada usuario tendrá su propio directorio en el servidor que será donde se almacenen los fichero que
+    sube.
+
+    * El usuario no p
