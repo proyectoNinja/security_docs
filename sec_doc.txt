@@ -1,0 +1,38 @@
+El presente documento y sus anexos, redactados en cumplimiento de lo dispuesto en el RLOPD recogen las medidas
+de índole técnica y organizativa necesarias para garantizar la protección, confidencialidad, integridad y
+disponibilidad de los recursos afectados por lo dispuesto en el citado reglamento y en la LOPD.
+
+El contenido de este documento queda estructurado como sigue:
+  * Ámbito de aplicación del documento.
+  * Medidas, normas, procedimientos, reglas y estándares encaminados a garantizar los niveles de seguridad
+  exigidos en este documento.
+  * Información y obligaciones del personal.
+  * Procedimientos de notificación, gestión y respuestas ante las incidencias.
+  * Procedimientos de revivisión.
+
+  # Anexo I.    Descripción de ficheros.
+  # Anexo II.   Nombramientos.
+  # Anexo III.  Autorizaciones de salida o recuperación de datos.
+  # Anexo IV.   Delegación de autorizaciones.
+  # Anexo V.    Inventario de soportes.
+  # Anexo VI.   Registro de incidencias.
+  # Anexo VII.  Encargados de tratamiento.
+  # Anexo VIII. Registro de entrada y salida de soportes.
+  # Anexo IX.   Medidas alternativas.
+
+  1. Ámbito de aplicación del documento
+
+  El presente documento será de aplicación a los ficheros que contienen datos de carácter personal que se
+  hallan bajo la responsabilidad de <NOMBRE DEL RESPONSABLE>, incluyendo los sistemas de información, soportes
+  y equipos empleados para el tratamiento de datos de carácter personal, que deban ser protegidos de acuerdo
+  a lo dispuesto en normativa vigente, las personas que intervienen en el tratamiento y los locales en los
+  que se ubican.
+
+  En concreto los ficheros sujetos a las medidas de seguridad establecidas en este documento, con indicación
+  del nivel de seguridad correspondiente, son los siguientes:
+
+    - Documentos en formato .csv que nos proporciona el usuario de forma manual, y que por contener mediciones
+    médicas del propio usuario, están sujetas al nivel de seguridad alto.
+
+  En el Anexo I se describen detalladamente cada uno de los ficheros o tratamientos, junto con los aspectos
+  que les afecten de manera particular.
