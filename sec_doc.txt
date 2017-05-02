@@ -52,7 +52,8 @@ El contenido de este documento queda estructurado como sigue:
   De esta forma es  dicha plataforma la encargada de gestionar de manera segura los datos y las claves
   ,y cumplir la legislación sobre almacenamiento de datos.
 
-  El intento reiterado de acceso no autorizado al sistema, quedará limitado <DESCRIBIR>
+  El intento reiterado de acceso no autorizado al sistema, quedará limitado por la propia plataforma
+  (Google+).
 
   2.2 Control de acceso
 
@@ -63,4 +64,107 @@ El contenido de este documento queda estructurado como sigue:
     * Cada usuario tendrá su propio directorio en el servidor que será donde se almacenen los fichero que
     sube.
 
-    * El usuario no p
+    * El usuario no puede acceder a sus ficheros en tiempo real, para consultar y acceder a los mismos, deberá
+    mandar un email con la fotocopia de su DNI a la dirección glucmodel@gmail.com
+
+    * Los fichero estan cifrados <DETALLAR>
+
+  Exclusivamente el personal <DEFINIR> está autorizado para conceder, alterar o anular el acceso sobre los
+  datos y los recursos conforme a los criterios establecidos por el responsable del fichero.
+
+  El alta, baja y modificación de las autorizaciones de acceso a los datos se llevará a cabo po <DEFINIR>
+  siguiendo las siguientes pautas <CONCRETAR>
+
+    *
+  Los controles de acceso????
+
+    *
+  En el Anexo I, se incluye la relación de usuarios actualizada con acceso autorizado a cada sistema de
+  información. Asimismo, se incluye el tipo de acceso autorizado para cada uno de ellos. Esta lista deberá
+  mantenerse actualizada
+
+    *
+
+  2.3. Registro de acceso
+
+  2.3.1. Automatizadas
+
+  En los accesos a datos, se registrá por cada acceso, la identificación del usuario, la fecha y hora en que
+  se realizó, el fichero accedido, el tipo de acceso y si ha sido autorizado o denegado. Si fue autorizado, se
+  almacena también información acerca del registro accedido.
+
+    * Mecanismo de registro
+
+  Los datos del registro de acceso se conservarán durante 2 años.
+
+  El responsable de seguridad revisará una vez al mes la inforación de congtrol registrada, y elaborará un informe
+  según se detalla en el capítulo de "Comprobaciones para la realización de la auditoría de seguridad" de este documento.
+
+  2.3.2 Manuales
+
+  El acceso a la información se limita exclusivamente a personal autorizado.
+
+    * Mecanismo de identificación de acceso
+
+  2.4 Gestión de soportes y documentos
+
+  Los soportes que contengan datos de carácter personal deberán permitir identificar el tipo de información que contienen, ser
+  inventariados serán almacenados en <LUGAR DE ACCESO RESTRINGIDO> , lugar de acceso restringido al que solo tendrán acceso las
+  personas con autorización que se detallan a continuación:
+
+      * <LISTA PERSONAL AUTORIZADO>
+
+      * <Procedimiento para habilitar o retirar permiso de acceso>
+
+  Los siguientes soportes se exceptúan de las obligaciones indicadas en el parrafo anterior dadas sus características físicas que
+  imposiblitan el cumplimiento de las mismas.
+
+    *<Lista soportes exentos de obligaciones>
+
+  Los siguientes soportes
+
+    * <Lista soportes etiquetados>
+
+  se identificarán utilizando los sistemas de etiquetado siguientes
+
+    * <Criterios etiquetado soportes>
+
+  Los soportes se almacenan de acuerdo con las siguientes normas:
+
+    * <Normas etiquetado soportes>
+
+  La salida de soportes y documentos que contengan datos de carácter personal, incluidos los comprendidos en correos electrónicos,
+  fuera de los locales bajo el control del responsable del tratamiento, deberá ser autorizada por el responsable del fichero
+  o aquel en que se hubiera delegado de acuerdo al siguiente procedimiento
+
+    * <Autorización salida datos>
+
+  En el Anexo III se incluirán los documentos de autorización relativos a la salida de soportes que contengan datos personales.
+
+  Los soportes que vayan a ser deshechados, deberán ser previamente <Proceso destruccion soportes> de forma que no
+  sea posible el acceso el acceso a la información contenida en ellos o su recuperación posterior.
+
+  En el traslado de la documentación se adoptarán las siguientes medidas para evitar la sustracción, perdida o acceso indebido
+  a la información:
+
+    *<Medidas traslado>
+
+  2.4.1 Medídas automátizadas
+
+    # Registro de entrada y salida de soportes
+
+      Las salidas y entradas de soportes se gestionará mediante <forma almacenamiento registro> y en el que deberán constar <campos
+      registro>
+
+      <Gestión automatizada>
+
+    # Gestión y distribución de soportes
+
+      En este caso los sopotes se identificarán mediante el sistema de etiquetado <criterios etiquetado soportes>
+
+      La distribución y salida de soportes que contengan datos de carácter personal de los ficheros de nivel alto
+      se realizará <procedimiento cifrado datos>
+
+      Los siguientes dispositivos portátiles <Dispositivos no cifrables>, debido a las razones indicadas <razones uso dispositivos
+      no cifrables>, se utilizarán en el tratamiento de datos personales adoptándose las medidas que a continuación se explicitan
+      <medidas dispos no cifrables>
