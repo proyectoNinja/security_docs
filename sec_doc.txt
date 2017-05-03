@@ -229,4 +229,31 @@ El contenido de este documento queda estructurado como sigue:
       periocidad: una vez a la semana.
 
       Los procedimientos establecidos para las copias de respaldo y para su recuperación garantizarán su reconstrucción en el estado
-      en que se encontraban al tiempo de producirses la pérdida
+      en que se encontraban al tiempo de producirses la pérdida o destrucción. En el caso de los ficheros parcialmente automatizados
+      siguientes <indicarlos>, se grabarán manualmente los datos. <Para la grabación manual indicada deberá existir documentación que
+      permita esa recuperación>.
+
+      El responsable del fichero verificará semestralmente los procedimientos de copias, respaldo y recuperación de los datos.
+
+      Las pruebas anteriores a la implantación o modificación de sistemas de información se realizarán con datos reales previa
+      copia de seguridad, y garantizando el nivel correspondiente al tratamiento realizado.
+
+      En el Anexo I se detallan los procedimientos de copia y recuperación de respaldo para cada fichero.
+
+      En los ficheros de nivel alto, se conservará una copia de respaldo y de los procedimientos de recuperación de los datos en
+      <lugar copia respaldo>.
+
+  2.11 Responsable de seguridad.
+
+      Se designa como responsable de seguridad <responsable de seguridad>, que con carácter general se encargará de coordinar
+      y controlar las medidas definidas en este documento de seguridad.
+
+      <Designación>
+
+      En ningún caso la designación supone una exoneración de la responsabilidad que corresponde a <responsable fichero> de
+      acuerdo con el RLOPD.
+
+      El responsable de seguridad desempeña las fucniones encomendadas durante el periodo de <periodo>. Una vez transcurrido
+      este plazo <responsable fichero> podrá nombrar al mismo reponsable de seguridad o a otro diferente.
+
+      En el Anexo II se encuentran las copias de los nombramientos de responsables de seguridad.
