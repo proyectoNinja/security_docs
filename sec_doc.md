@@ -96,7 +96,7 @@ Dicha información se refiere a los siguientes anexos:
   se realizó, el fichero accedido, el tipo de acceso y si ha sido autorizado o denegado. Si fue autorizado, se
   almacena también información acerca del registro accedido.
 
-  ** [Mecanismo de registro].**
+  **[Mecanismo de registro].**
 
   Los datos del registro de acceso se conservarán durante 2 años.
 
@@ -115,11 +115,11 @@ Dicha información se refiere a los siguientes anexos:
   inventariados serán almacenados en <lugar de acceso restringido> , lugar de acceso restringido al que solo tendrán acceso las
   personas con autorización que se detallan a continuación:
 
-  ** [especificar personal autorizado].**
+  **[especificar personal autorizado]**.
 
   Los siguientes soportes se exceptúan de las obligaciones indicadas en el parrafo anterior dadas sus características físicas que imposiblitan el cumplimiento de las mismas.
 
-  ** [soportes exentos de obligaciones].
+  **[soportes exentos de obligaciones]**.
 
   Los siguientes soportes <soportes especialmente sensibles> se identificarán utilizando los sistemas de etiquetado siguientes
   **[criterios etiquetado soportes]**.
@@ -128,8 +128,7 @@ Dicha información se refiere a los siguientes anexos:
 
   **[normas etiquetado soportes]**.
 
-  La salida de soportes y documentos que contengan datos de carácter personal, incluidos los comprendidos en correos electrónicos,
-  fuera de los locales bajo el control del responsable del tratamiento, deberá ser autorizada por el responsable del fichero o aquel en que se hubiera delegado de acuerdo al siguiente procedimiento.
+  La salida de soportes y documentos que contengan datos de carácter personal, incluidos los comprendidos en correos electrónicos, fuera de los locales bajo el control del responsable del tratamiento, deberá ser autorizada por el responsable del fichero o aquel en que se hubiera delegado de acuerdo al siguiente procedimiento.
 
   **[autorización salida datos]**.
 
@@ -145,7 +144,7 @@ Dicha información se refiere a los siguientes anexos:
 
 ###  2.4.1 Medídas automátizadas.
 
-  + **Registro de entrada y salida de soportes.**
+  + **[Registro de entrada y salida de soportes]**.
 
       Las salidas y entradas de soportes serán registradas de acuerdo al siguiente procedimiento **[procedimiento registro e/s soportes]**.
 
@@ -153,7 +152,7 @@ Dicha información se refiere a los siguientes anexos:
 
       **[Gestión automatizada]**.
 
-  + **Gestión y distribución de soportes.**
+  + **[Gestión y distribución de soportes]**.
 
       En este caso los sopotes se identificarán mediante el sistema de etiquetado **[criterios etiquetado soportes]**.
 
@@ -190,7 +189,7 @@ Dicha información se refiere a los siguientes anexos:
 
   Se pueden llevar a cabo los siguientes tratamientos de datos personales <relación ficheros afectados por tratamiento> fuera de los locales del responsable del fichero <distintos locles>.
 
-  **[Usuarios concretos/perfil].**
+  **[Usuarios concretos/perfil]**.
 
   **[Garantía nivel de seguridad]**.
 
@@ -231,7 +230,7 @@ En los ficheros de nivel alto, se conservará una copia de respaldo y de los pro
 Se designa como responsable de seguridad <responsable de seguridad>, que con carácter general se encargará de coordinar
 y controlar las medidas definidas en este documento de seguridad.
 
-**[Designación]**
+**[Designación]**.
 
 En ningún caso la designación supone una exoneración de la responsabilidad que corresponde a **[responsable fichero]** de
 acuerdo con el RLOPD.
@@ -248,7 +247,7 @@ Para asegurar que todas las personas conocen las normas de seguridad que afectan
 las consecuencias del incumplimiento de las mismas, serán informadas de acuerdo con el siguiente procedimiento
 **[procedimiento informe]**.
 
-**[remisión periódica de información]**
+**[remisión periódica de información]**.
 
 ## 3.2 Funciones y obligaciones del personal
 

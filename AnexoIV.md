@@ -1,0 +1,1 @@
+# Delegación de autorizaciones
