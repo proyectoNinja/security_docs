@@ -1,3 +1,5 @@
+# Documento de seguridad
+
 El presente documento y sus anexos, redactados en cumplimiento de lo dispuesto en el RLOPD recogen las medidas
 de índole técnica y organizativa necesarias para garantizar la protección, confidencialidad, integridad y
 disponibilidad de los recursos afectados por lo dispuesto en el citado reglamento y en la LOPD.
@@ -288,17 +290,22 @@ En el Anexo III se incluirán los documentos de autorización del reponsable del
 
 # 5. Procedimientos de revisión
 
-# 5.1 Revisión del documento de seguridad
+## 5.1 Revisión del documento de seguridad
 
 El documento deberá mantenerse en todo momento actualizado y deberá ser revisado siempre que se produzcan cambios relevantes en el sistema de información, en el cibtebudi de la información incluida en los ficheros o como consecuencia de los controles periódicos realizados. En todo caso se entenderá como cambio relevante cuando pueda repercutir en el cumplimiento de las medidas de seguridad implantadas. Asimismo, deberá adecuarse, en todo momento, a las disposiciones vigentes eb materia de seguridad de los datos de carácter personal.
 
-**[procedimientos previstos modificacion documento de seguridad]**
+**[procedimientos previstos modificacion documento de seguridad]**.
 
-# 5.2 Auditoría
+## 5.2 Auditoría
 
-**[Procedimientos auditoría interna]**
+**[Procedimientos auditoría interna]**.
 
 Con carácter extraordinario deberá realizarse cuando se lleven a cabo medificaciones sustanciales en el sistema de información que puedan repercutir en el cumplimiento de las medidas de seguridad implantadas, con el objeto de verificar la adaptación, adecuación y eficacia de las mismas. Esta auditoría inicia el cómputo de dis años señalado.
 
-    El informe analizará la adecuación de las medu
-    El informe analizará la adecuación de las medu
+El informe analizará la adecuación de las medidas y controles a la Ley y su desarrollo reglamentario, identificará las dificiencias y propondrá las medidas correctoras o complementarias necesarias.
+
+Los informes de auditoría han de ser analizados por el responsable de seguridad competente, que enviará las conclusiones al responsable del fichero para que adopte lasa medidas correctoras y quedará a disposición de la Agencia Española de Protección de Datos, o en su caso de las autoridades de control de las comunidades autónomas.
+
+### 5.2.1 Informe mensual sobre el registro de accesos
+
+**[Procedimientos informe mensual]**.
