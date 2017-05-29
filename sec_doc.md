@@ -4,14 +4,14 @@ El presente documento y sus anexos, redactados en cumplimiento de lo dispuesto e
 de índole técnica y organizativa necesarias para garantizar la protección, confidencialidad, integridad y
 disponibilidad de los recursos afectados por lo dispuesto en el citado reglamento y en la LOPD.
 
-El contenido de este documento queda estructurado como sigue:
+El contenido de este documento queda estructurado como sigue:  
 
-  * Ámbito de aplicación del documento.
-  * Medidas, normas, procedimientos, reglas y estándares encaminados a garantizar los niveles de seguridad
-  exigidos en este documento.
-  * Información y obligaciones del personal.
-  * Procedimientos de notificación, gestión y respuestas ante las incidencias.
-  * Procedimientos de revivisión.
+1 Ámbito de aplicación del documento.  
+2 Medidas, normas, procedimientos, reglas y estándares encaminados a garantizar los niveles de seguridad
+  exigidos en este documento.  
+3 Información y obligaciones del personal.  
+4 Procedimientos de notificación, gestión y respuestas ante las incidencias.  
+5 Procedimientos de revivisión.
 
 Dicha información se refiere a los siguientes anexos:
 
@@ -30,7 +30,7 @@ Dicha información se refiere a los siguientes anexos:
   ## 1. Ámbito de aplicación del documento.
 
   El presente documento será de aplicación a los ficheros que contienen datos de carácter personal que se
-  hallan bajo la responsabilidad de <nombre responsable fichero>, incluyendo los sistemas de información, soportes
+  hallan bajo la responsabilidad de **[nombre responsable fichero]**, incluyendo los sistemas de información, soportes
   y equipos empleados para el tratamiento de datos de carácter personal, que deban ser protegidos de acuerdo
   a lo dispuesto en normativa vigente, las personas que intervienen en el tratamiento y los locales en los
   que se ubican.
@@ -38,7 +38,7 @@ Dicha información se refiere a los siguientes anexos:
   En concreto los ficheros sujetos a las medidas de seguridad establecidas en este documento, con indicación
   del nivel de seguridad correspondiente, son los siguientes:
 
-  * Documentos en formato .csv que nos proporciona el usuario de forma manual, y que por contener mediciones médicas del propio usuario, están sujetas al nivel de seguridad alto.
+  * Documentos en formato .csv que nos proporciona el usuario de forma manual, y que por contener registros médicos del propio usuario, están sujetas al nivel de seguridad alto.
 
 
   En el Anexo I se describen detalladamente cada uno de los ficheros o tratamientos, junto con los aspectos
@@ -58,12 +58,10 @@ Dicha información se refiere a los siguientes anexos:
   De esta forma es  dicha plataforma la encargada de gestionar de manera segura los datos y las claves,
   y cumplir la legislación sobre almacenamiento de datos.
 
-  **[Enlace almacenamiento y periocidad renovación contraseñas Google].**
-
-  **[Enlace requisitos contraseñas Google+]**
+  [Enlace almacenamiento y periocidad renovación contraseñas Google.](https://myaccount.google.com/security?gclid=CK669ob8lNQCFaQW0wodfPIOSA&dclid=COTIkof8lNQCFU-uUQodPZYAEA&pli=1)
 
   El intento reiterado de acceso no autorizado al sistema, quedará limitado por la propia plataforma
-  (Google+). **[Enlace limite intentos acceso no autorizado Google+].**
+  (Google+). [Política privacidad Google+.](https://www.google.com/intl/es/policies/privacy/)
 
   ### 2.2 Control de acceso.
 
@@ -121,8 +119,7 @@ Dicha información se refiere a los siguientes anexos:
 
   **[soportes exentos de obligaciones]**.
 
-  Los siguientes soportes <soportes especialmente sensibles> se identificarán utilizando los sistemas de etiquetado siguientes
-  **[criterios etiquetado soportes]**.
+  Los siguientes soportes **[soportes especialmente sensibles]** se identificarán utilizando los sistemas de etiquetado siguientes **[criterios etiquetado soportes especialmente sensibles]**.
 
   Los soportes se almacenan de acuerdo con las siguientes normas:
 
